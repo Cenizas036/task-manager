@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB connection string
-const MONGO_URI = "mongodb://admin:ZxePFemAHzshSdLz@ac-x1mvqkx-shard-00-00.zs3hqtl.mongodb.net:27017,ac-x1mvqkx-shard-00-01.zs3hqtl.mongodb.net:27017,ac-x1mvqkx-shard-00-02.zs3hqtl.mongodb.net:27017/?ssl=true&replicaSet=atlas-i0pbpl-shard-0&authSource=admin&appName=TaskManagerCluster";
+const MONGO_URI = "MONGO_URI";
 
 // Import routes
 const taskRoutes = require("./routes/taskRoutes");
