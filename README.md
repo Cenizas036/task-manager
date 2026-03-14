@@ -66,7 +66,7 @@ npm start
 
 ## Screenshot
 
-![App Screenshot](screenshots/app.png)
+![App Screenshot](app.png)
 
 ## Future Improvements
 
